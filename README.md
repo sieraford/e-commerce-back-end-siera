@@ -14,7 +14,7 @@ When you enter the command to invoke the application, then your server is starte
 When you open API GET routes in Insomnia Core for categories, products, or tags, then the data for each of these routes is displayed in a formatted JSON.
 When you test API POST, PUT, and DELETE routes in Insomnia Core, then you are able to successfully create, update, and delete data in your database.
 
-[DEMO VIDEO HERE](https://drive.google.com/file/d/1ipx7-oKeD531ZTlNicxRj-qwzSDRISyU/view?usp=sharing)
+[DEMO VIDEO HERE](https://drive.google.com/file/d/1V8PZSp44P9RJLv5nIqsPZYAjkQFi5mfX/view?usp=sharing)
 
 ## License
 
