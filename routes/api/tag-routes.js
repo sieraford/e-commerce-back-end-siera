@@ -80,7 +80,7 @@ router.put('/:id', (req, res) => {
       // get list of current product_ids
       const productTagIds = productTags.map(({ product_id }) => product_id);
       // create filtered list of new product_ids
-      const newProductTags = req.body.tagIds
+      const newProductTags = req.body.productIds
         .filter((product_id) => !productTagIds.includes(product_id))
         .map((product_id) => {
           return {
